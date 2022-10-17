@@ -1,1 +1,1 @@
-﻿This is a test for my GitHub repository
+﻿This is a test for my GitHub repo, roses are red, violets are blue. Today is Monday, Ironhack is cool.
